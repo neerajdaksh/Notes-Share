@@ -9,6 +9,8 @@ box-sizing: border-box;
 
 :root{
     --primary-color:#1d4ed8;
+    --off-white:#F3F4F6;
+    --dark-gray:#687280;
 }
 
 
@@ -77,4 +79,25 @@ margin: auto;
 
 .navigation .link-active{
     font-weight: bold;
+}
+
+/* header */
+
+
+.header{
+    padding: 2rem;
+}
+.header .hero-img{
+    max-width: 300px;
+    display: block;
+    margin: auto;
+}
+.header .header-heading{
+color: var(--dark-gray);
+text-align: center;
+
+}
+
+.header .heading-inverted{
+    color:var(--primary-color);
 }
