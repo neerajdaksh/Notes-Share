@@ -15,3 +15,63 @@ box-sizing: border-box;
 body{
     font-family: 'Montserrat', sans-serif;
 }
+
+
+/* container */
+.container{
+
+}
+.container-center{
+
+}
+
+/* links */
+.link{
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+
+}
+
+/* list css */
+.list-non-bullet{
+    list-style: none;
+}
+
+.list-item-inline{
+    display: inline;
+    padding: 0rem 0.5rem;
+}
+
+
+/* navigation */
+
+.navigation{
+    background-color: var(--primary-color);
+    color: white;
+    padding: 1rem;
+    border-bottom-left-radius: 1rem;
+
+
+}
+
+
+.navigation .nav-brand{
+    font-weight: bold;
+    font-size:1.5rem;;
+}
+
+.navigation .link{
+    color: white;
+    font-size: 1.1rem;
+}
+
+
+
+.navigation .nav-pills{
+    text-align:right;
+}
+
+
+.navigation .link-active{
+    font-weight: bold;
+}
