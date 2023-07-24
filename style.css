@@ -22,6 +22,9 @@ body{
 
 }
 .container-center{
+max-width: 600px;
+margin: auto;
+
 
 }
 
