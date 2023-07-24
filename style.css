@@ -121,5 +121,8 @@ margin: 1rem 0;
 
 .branch-container .link{
    display: block;
-
+   color: var(--primary-color);
 }
+
+
+
