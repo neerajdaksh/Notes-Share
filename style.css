@@ -124,5 +124,22 @@ margin: 1rem 0;
    color: var(--primary-color);
 }
 
+/* footer */
 
+.footer{
+    background-color: var(--primary-color);
+    text-align: center;
+    color: white;
+    padding: 1rem 0;
+    border-bottom-right-radius: 1rem;
 
+}
+
+.footer .link{
+    color: white;
+
+}
+
+.footer ul{
+    margin-top: 1rem;
+}
