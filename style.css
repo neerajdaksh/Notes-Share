@@ -18,6 +18,10 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 
+.off-white{
+ background-color: var(--off-white);
+}
+
 
 /* container */
 .container{
@@ -36,6 +40,7 @@ margin: auto;
     padding: 0.5rem 1rem;
 
 }
+ 
 
 /* list css */
 .list-non-bullet{
@@ -105,7 +110,6 @@ margin: 1rem 0;
 
 /* section */
 .section{ 
-    background-color:var(--off-white);
     text-align: center;
     padding: 1rem;
 
